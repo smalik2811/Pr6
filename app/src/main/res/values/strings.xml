@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Pr6</string>
+    <string name="default_msg">Select any course to check the Teacher Incharge.</string>
+    <string-array name="courses">
+        <item>Biochemistry</item>
+        <item>Biomedical Science</item>
+        <item>Computer Science</item>
+        <item>Chemistry</item>
+        <item>Electronics</item>
+        <item>Food Technology</item>
+        <item>Human Communication</item>
+        <item>Instrumentation</item>
+        <item>Mathematics</item>
+        <item>Microbiology</item>
+        <item>Physical Education</item>
+        <item>Physics</item>
+        <item>Polymer Science</item>
+        <item>Zoology</item>
+    </string-array>
+
+    <string-array name="incharge">
+        <item>Dr. Anita Sondhi</item>
+        <item>Prof. Uma Chaudhary</item>
+        <item>Mr. Bhavya Deep</item>
+        <item>Dr. Lalit Kapur</item>
+        <item>Dr. Manoj Kumar Khanna</item>
+        <item>Dr. Rizwana</item>
+        <item>Dr. Madhulika Bajpai</item>
+        <item>Dr. Geeta Bhatt</item>
+        <item>Dr. Neeru Sharma</item>
+        <item>Dr. N Vijaya Kumar</item>
+        <item>Dr. Pawan Kumar Dabas</item>
+        <item>Prof. Anand Bharadvaja</item>
+        <item>Dr. Saroj Kumar Shukla</item>
+        <item>Prof. Anil Kumar Bali</item>
+    </string-array>
+</resources>
